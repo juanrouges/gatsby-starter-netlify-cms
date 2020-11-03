@@ -8,4 +8,6 @@ featuredimage: /img/products-grid2.jpg
 tags:
   - test
 ---
+![](/img/blog-index.jpg)
+
 This is the body of my blog
